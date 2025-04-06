@@ -6,7 +6,6 @@ using namespace std;
         return -doMath(a, -b);  
     }
 }
-
 int main() {
     int x, y;
     cout << "Enter two numbers: ";
